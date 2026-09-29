@@ -7,7 +7,7 @@ Currently dedicating my time to mastering core software engineering practices: l
 
 ---
 
-##  Primary Tech Stack (Daily Drivers)
+##  Primary Tech Stack
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
