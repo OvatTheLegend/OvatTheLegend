@@ -75,7 +75,3 @@ Technologies, paradigms, and tools studied and applied during university coursew
 
 ---
 
-##  Connect with Me
-
-- 💼 **LinkedIn:** www.linkedin.com/in/richard-laktiš-0b9a97290
-- 📧 **Email:** risolaktis17@gmail.com
