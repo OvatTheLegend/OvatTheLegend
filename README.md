@@ -1,9 +1,7 @@
 # Hi there, I'm Richard 👋
 ### Junior Full-Stack Developer | Master's Student at FEI STU (Applied Informatics)
 
-I am an engineering student at **FEI STU in Bratislava**, passionate about building reliable full-stack web applications and robust RESTful services. I focus on modern **React & TypeScript** on the frontend and clean **Java (Spring Boot 3) & PostgreSQL** on the backend.
-
-Currently dedicating my time to mastering core software engineering practices: layered architecture, relational database design, automated testing, and DevOps workflows.
+Applied Informatics master's student at **FEI STU in Bratislava**, focusing on modern software engineering practices, layered architecture, relational database design, and automated testing.
 
 ---
 
@@ -53,15 +51,14 @@ Technologies, paradigms, and tools studied and applied during university coursew
 
 ---
 
-## 🚀 Featured Engineering Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [**DevKanban**](https://github.com/OvatTheLegend/devkanban) | Full-featured Kanban task management board featuring `useReducer` + `useContext` global state management, Zod form validation, and responsive drag/filter workflows. | Next.js, React, TypeScript, Tailwind CSS |
-| [**CryptoPulse**](https://github.com/OvatTheLegend/crypto-pulse-market-tracker) | Real-time cryptocurrency market tracker & analytics dashboard with global currency toggle (USD/EUR), custom hooks (`useDebounce`, `useLocalStorage`), and background price polling. | React, TypeScript, Tailwind CSS, REST API |
-| [**Station Minigame**](https://github.com/OvatTheLegend/station-minigame) | Interactive multi-window station OS simulation featuring frequency radio scanner, terminal cipher decryption, and complex state machine transitions. | Next.js, React, TypeScript, Tailwind CSS |
-| [**PostgreStore**](https://github.com/OvatTheLegend/postgre-store-api) | Persistent CRUD REST API built with layered architecture (Controller ➔ Service ➔ Repo), HikariCP pool, Flyway versioned migrations, and 100% test coverage. | Java 21, Spring Boot 3, Spring Data JPA, PostgreSQL 16 |
-| [**Task & Issue Tracking API**](https://github.com/OvatTheLegend/task-and-issue-tracking-api) | Production-grade RESTful Task & Issue Tracking API with clean layered architecture, DTO validation, and structured error handling. | Java 21, Spring Boot 3, REST API |
+##  Featured Engineering Projects
+| Project | Description | Tech Stack | Live Demo |
+| :--- | :--- | :--- | :--- |
+| [**DevKanban**](https://github.com/richard-laktis/devkanban) | Full-featured Kanban task management board featuring `useReducer` + `useContext` global state management, Zod form validation, and responsive drag/filter workflows. | Next.js, React, TypeScript, Tailwind CSS | [🌐 Live App](https://devkanban-one.vercel.app/) |
+| [**CryptoPulse**](https://github.com/richard-laktis/crypto-pulse-market-tracker) | Real-time cryptocurrency market tracker & analytics dashboard with global currency toggle (USD/EUR), custom hooks (`useDebounce`, `useLocalStorage`), and background price polling. | React, TypeScript, Tailwind CSS, REST API | [🌐 Live App](https://crypto-pulse-market-tracker.vercel.app/) |
+| [**Station Minigame**](https://github.com/richard-laktis/station-minigame) | Interactive multi-window station OS simulation featuring frequency radio scanner, terminal cipher decryption, and complex state machine transitions. | Next.js, React, TypeScript, Tailwind CSS | [🌐 Live App](https://station-minigame.vercel.app/game) |
+| [**PostgreStore**](https://github.com/richard-laktis/postgre-store-api) | Persistent CRUD REST API built with layered architecture (Controller ➔ Service ➔ Repo), HikariCP pool, Flyway versioned migrations, and 100% test coverage. | Java 21, Spring Boot 3, Spring Data JPA, PostgreSQL 16 | — *(Backend API)* |
+| [**Task & Issue Tracking API**](https://github.com/richard-laktis/task-and-issue-tracking-api) | Production-grade RESTful Task & Issue Tracking API with clean layered architecture, DTO validation, and structured error handling. | Java 21, Spring Boot 3, REST API | — *(Backend API)* |
 ##  Engineering Philosophy
 
 - **Layered Architecture:** Strict separation of concerns (Controller ➔ Service ➔ Repository ➔ Entity/DTO).
